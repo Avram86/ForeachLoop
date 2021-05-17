@@ -92,6 +92,9 @@ namespace ForeachLoop
             Console.WriteLine($"Bine ai venit, {userName}");
         }
 
+        /// <summary>
+        /// Checks wheather the inserted userName and password are correct
+        /// </summary>
         private static void IsAuthenticatedDoWhile()
         {
             string correctUser = "admin";

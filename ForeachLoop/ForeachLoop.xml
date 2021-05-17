@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ForeachLoop</name>
+    </assembly>
+    <members>
+        <member name="M:ForeachLoop.Program.IsAuthenticatedDoWhile">
+            <summary>
+            Checks wheather the inserted userName and password are correct
+            </summary>
+        </member>
+    </members>
+</doc>
